@@ -1,0 +1,3 @@
+backend commands:
+1.npm init -y                   //initialise node modules
+cors -Cross origin resource sharing 
